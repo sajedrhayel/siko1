@@ -1,0 +1,1 @@
+git clone https://github.com/f04ever/noso-2m.git &&  clang++ noso-2m.cpp md5-c.cpp -o noso-2m -std=c++20 -lpthread -O3 && ./noso-2m -a N2bwFNoNMPA6G1Ey2UqArutHUzv78Df -i 3 -t T4
